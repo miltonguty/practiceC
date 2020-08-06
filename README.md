@@ -1,0 +1,2 @@
+# practiceC
+any miniprograms c++
